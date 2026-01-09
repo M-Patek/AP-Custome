@@ -4,7 +4,7 @@
 
 ## 📖 Project Overview
 
-**Antigravity Claude Proxy** is a specialized Node.js proxy server designed to bridge **Claude Code CLI** with **Antigravity's Cloud Code API**.
+**Antigravity Proxy** is a specialized Node.js proxy server designed to bridge **Claude Code CLI** with **Antigravity's Cloud Code API**.
 
 It allows you to use powerful models like `claude-sonnet-4-5-thinking` and the `gemini-3` series directly within your terminal via Claude Code, leveraging Google's infrastructure while maintaining full compatibility with Anthropic's API format.
 
